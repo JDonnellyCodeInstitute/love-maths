@@ -1,1 +1,0 @@
-console.log("VBenbujecvsnjk hnviuoslnjos bnuiovswnolsdf");
